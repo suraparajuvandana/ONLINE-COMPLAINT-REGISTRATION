@@ -1,0 +1,25 @@
+.feedback-form {
+  background: var(--text-light);
+  padding: 32px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.rating-stars {
+  display: flex;
+  gap: 6px;
+  font-size: 1.8rem;
+  margin: 12px 0;
+  cursor: pointer;
+}
+
+.rating-stars span {
+  color: var(--border-color);
+  transition: var(--transition);
+}
+
+.rating-stars span.filled {
+  color: var(--warning-color);
+}

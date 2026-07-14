@@ -1,0 +1,23 @@
+/* Root stylesheet — imports all modular CSS files from assets/css */
+@import './assets/css/index.css';
+@import './assets/css/App.css';
+@import './assets/css/Navbar.css';
+@import './assets/css/Sidebar.css';
+@import './assets/css/Footer.css';
+@import './assets/css/Home.css';
+@import './assets/css/Login.css';
+@import './assets/css/Register.css';
+@import './assets/css/UserDashboard.css';
+@import './assets/css/AgentDashboard.css';
+@import './assets/css/AdminDashboard.css';
+@import './assets/css/ComplaintForm.css';
+@import './assets/css/ComplaintDetails.css';
+@import './assets/css/ComplaintCard.css';
+@import './assets/css/Feedback.css';
+@import './assets/css/Profile.css';
+@import './assets/css/Notification.css';
+@import './assets/css/Table.css';
+@import './assets/css/Buttons.css';
+@import './assets/css/Forms.css';
+@import './assets/css/Loader.css';
+@import './assets/css/Responsive.css';

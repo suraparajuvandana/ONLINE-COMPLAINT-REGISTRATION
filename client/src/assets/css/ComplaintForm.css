@@ -1,0 +1,19 @@
+.complaint-form {
+  background: var(--text-light);
+  padding: 32px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.complaint-form h2 {
+  margin-bottom: 20px;
+}
+
+.complaint-form .form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 20px;
+}
